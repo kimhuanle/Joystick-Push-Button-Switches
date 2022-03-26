@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "ADMUX",
+        "ADPS",
+        "ADSC",
+        "DDRB",
+        "PINB",
+        "RXEN",
+        "TXEN",
+        "UBRR",
+        "UCSR",
+        "UCSZ",
+        "UDRE",
+        "USART",
+        "Vref"
+    ]
+}

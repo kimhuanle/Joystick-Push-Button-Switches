@@ -16,17 +16,17 @@
 ## Introduction
 This is my Midterm project for class ECE 387. The purpose of this project is to interface a thumb joystick and an emergency stop switch with Arduino UNO R3 using only C programs and AVR toolchain. In this particular project that I designed, I was able to read the values of VarX and VarY, which represents the positions in X and Y coordinates of the joystick, and print them to LCD as well as using them to control 2 servo motors. The emergency stop switch was also added to allow for immediate shutdown of the whole circuit (including the Arduino).
 ## Components
-* 1 x Arduino UNO R3
-* 1 x Breadboard
-* 1 x 9v Battery
-* 1 x Potentiometer
-* 2 x 1KΩ Resistor
-* 20+ x Jumper Cables
-* 1 x LED
-* 1 x 16x2 LCD
-* 1 x Thumb joystick
-* 2 x SG90 Servo Motor
-* 1 x Emergency Stop Switch 
+* 1 x Arduino UNO R3<br><img src="https://umaine.edu/hackerspace/wp-content/uploads/sites/290/2017/11/ARDUINO_UNO_A06-300x211.png" width="300" height="200"/>
+* 1 x Breadboard<br><img src="https://www.baldengineer.com/wp-content/uploads/2013/12/blank_breadboard.png" width="500" height="250"/>
+* 1 x 9v Battery<br><img src="https://helptechco.com/files/522BP1_2.png" width="140" height="200"/>
+* 1 x Potentiometer<br><img src="https://www.tube-town.net/ttstore/images/product_images/original_images/apo16-01_4.png" width="200" height="150"/>
+* 2 x 1KΩ Resistor<br><br><img src="https://www.tandyonline.com/media/catalog/product/cache/f27cd47a8c413763245cb9dc18265f6f/2/7/271-1321-1k-carbon-resistors-sml.png" width="200" height="200"/>
+* 20+ x Jumper Cables<br><img src="https://cdn.shopify.com/s/files/1/0410/7888/2465/products/genius-robotics-jumper-wires-40-pins-male-to-male-breadboard-jumper-wires-20cm-011-223-19245926088865_1024x.png?v=1631567860" width="300" height="300"/>
+* 1 x LED<br><img src="https://hackster.imgix.net/uploads/attachments/446767/led_AOuhtzYEQe.png?auto=compress%2Cformat&w=200&h=150&fit=min"/>
+* 1 x 16x2 LCD<br><br><img src="https://2.bp.blogspot.com/-2RywoglTPDA/WRnCAKzzkfI/AAAAAAAAD0A/F2BqYfEIQWMi0RdyDyA1Rdvcq9fyB_DdACLcB/s1600/lcd.png" width="400" height="170"/>
+* 1 x Thumb joystick<br><br><img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/KY-023.png" width="200" height="200"/>
+* 2 x SG90 Servo Motor<br><img src="https://cdn.bodanius.com/media/1/a8e143943_Category_x.png" width="300" height="300"/>
+* 1 x Emergency Stop Switch<br><br><img src="https://cdn-reichelt.de/bilder/web/xxl_ws/C200/A22NE-M-PXX2-N-B.png" width="300" height="300"/>
 ## Installation
 You can clone this repository to test it out by running this command in your working directory:
 ```
